@@ -1,0 +1,22 @@
+C:\Users\Jeng\AppData\Local\Temporary Projects\ch11_ex1\bin\Debug\ch11_ex1.exe
+C:\Users\Jeng\AppData\Local\Temporary Projects\ch11_ex1\bin\Debug\ch11_ex1.pdb
+C:\Users\Jeng\AppData\Local\Temporary Projects\ch11_ex1\bin\Debug\ch11_ex1.xml
+C:\Users\Jeng\AppData\Local\Temporary Projects\ch11_ex1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeng\AppData\Local\Temporary Projects\ch11_ex1\obj\x86\Debug\ch11_ex1.Form1.resources
+C:\Users\Jeng\AppData\Local\Temporary Projects\ch11_ex1\obj\x86\Debug\ch11_ex1.Resources.resources
+C:\Users\Jeng\AppData\Local\Temporary Projects\ch11_ex1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jeng\AppData\Local\Temporary Projects\ch11_ex1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jeng\AppData\Local\Temporary Projects\ch11_ex1\obj\x86\Debug\ch11_ex1.exe
+C:\Users\Jeng\AppData\Local\Temporary Projects\ch11_ex1\obj\x86\Debug\ch11_ex1.xml
+C:\Users\Jeng\AppData\Local\Temporary Projects\ch11_ex1\obj\x86\Debug\ch11_ex1.pdb
+C:\VB2010\延伸練習\ch11\ch11_ex1\obj\x86\Debug\ch11_ex1.exe
+C:\VB2010\延伸練習\ch11\ch11_ex1\obj\x86\Debug\ch11_ex1.xml
+C:\VB2010\延伸練習\ch11\ch11_ex1\obj\x86\Debug\ch11_ex1.pdb
+C:\VB2010\延伸練習\ch11\ch11_ex1\bin\Debug\ch11_ex1.exe
+C:\VB2010\延伸練習\ch11\ch11_ex1\bin\Debug\ch11_ex1.pdb
+C:\VB2010\延伸練習\ch11\ch11_ex1\bin\Debug\ch11_ex1.xml
+C:\VB2010\延伸練習\ch11\ch11_ex1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VB2010\延伸練習\ch11\ch11_ex1\obj\x86\Debug\ch11_ex1.Form1.resources
+C:\VB2010\延伸練習\ch11\ch11_ex1\obj\x86\Debug\ch11_ex1.Resources.resources
+C:\VB2010\延伸練習\ch11\ch11_ex1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\VB2010\延伸練習\ch11\ch11_ex1\obj\x86\Debug\GenerateResource.write.1.tlog

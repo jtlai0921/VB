@@ -1,0 +1,11 @@
+C:\VB2010\延伸練習\ch13\ch13_ex2\bin\Debug\ch13_ex2.exe
+C:\VB2010\延伸練習\ch13\ch13_ex2\bin\Debug\ch13_ex2.pdb
+C:\VB2010\延伸練習\ch13\ch13_ex2\bin\Debug\ch13_ex2.xml
+C:\VB2010\延伸練習\ch13\ch13_ex2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VB2010\延伸練習\ch13\ch13_ex2\obj\x86\Debug\ch13_ex2.Form1.resources
+C:\VB2010\延伸練習\ch13\ch13_ex2\obj\x86\Debug\ch13_ex2.Resources.resources
+C:\VB2010\延伸練習\ch13\ch13_ex2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\VB2010\延伸練習\ch13\ch13_ex2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\VB2010\延伸練習\ch13\ch13_ex2\obj\x86\Debug\ch13_ex2.exe
+C:\VB2010\延伸練習\ch13\ch13_ex2\obj\x86\Debug\ch13_ex2.xml
+C:\VB2010\延伸練習\ch13\ch13_ex2\obj\x86\Debug\ch13_ex2.pdb

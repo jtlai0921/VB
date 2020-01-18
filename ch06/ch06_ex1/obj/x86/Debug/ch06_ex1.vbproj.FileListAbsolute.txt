@@ -1,0 +1,13 @@
+C:\Users\JENG\AppData\Local\Temporary Projects\ch06_ex1\bin\Debug\ch06_ex1.exe
+C:\Users\JENG\AppData\Local\Temporary Projects\ch06_ex1\bin\Debug\ch06_ex1.pdb
+C:\Users\JENG\AppData\Local\Temporary Projects\ch06_ex1\bin\Debug\ch06_ex1.xml
+C:\Users\JENG\AppData\Local\Temporary Projects\ch06_ex1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JENG\AppData\Local\Temporary Projects\ch06_ex1\obj\x86\Debug\ch06_ex1.Resources.resources
+C:\Users\JENG\AppData\Local\Temporary Projects\ch06_ex1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JENG\AppData\Local\Temporary Projects\ch06_ex1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JENG\AppData\Local\Temporary Projects\ch06_ex1\obj\x86\Debug\ch06_ex1.exe
+C:\Users\JENG\AppData\Local\Temporary Projects\ch06_ex1\obj\x86\Debug\ch06_ex1.xml
+C:\Users\JENG\AppData\Local\Temporary Projects\ch06_ex1\obj\x86\Debug\ch06_ex1.pdb
+C:\VB2010\附書光碟\延伸練習\ch06\ch06_ex1\obj\x86\Debug\ch06_ex1.exe
+C:\VB2010\附書光碟\延伸練習\ch06\ch06_ex1\obj\x86\Debug\ch06_ex1.xml
+C:\VB2010\附書光碟\延伸練習\ch06\ch06_ex1\obj\x86\Debug\ch06_ex1.pdb

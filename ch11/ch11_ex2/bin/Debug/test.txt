@@ -1,0 +1,20 @@
+Module Module1
+
+    Sub Main()
+        Dim Pass As String
+        Console.WriteLine("±K½XÀË¬d:")
+        Pass = "1234"
+        Call PassWord(Pass)
+
+        PassWord("5678")
+        Console.ReadKey()
+    End Sub
+    Sub PassWord(ByVal UserPass As String)
+        If UserPass = "1234" Then
+            Console.WriteLine("Åwªï¥úÁ{!")
+        Else
+            Console.WriteLine("±K½X¿ù»~!")
+        End If
+    End Sub
+
+End Module
